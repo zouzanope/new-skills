@@ -1,0 +1,19 @@
+header
+{
+    font-style: normal;
+    color: #ff0000;
+    font-size: 18pt;
+    font-weight: bold;
+    padding-left: 8px;
+}
+.connect
+{
+    padding-left: 588px;
+}
+.singup
+{
+    font-style: italic;
+    color: #500;
+    font-size: 12pt;
+    font-weight: 50;
+}
